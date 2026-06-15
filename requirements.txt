@@ -1,0 +1,27 @@
+# Naghiayik Python - Requirements
+# Inflation Forecasting with Machine Learning Methods
+# =====================================================
+
+# Core Scientific Computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Deep Learning (for LSTM and Neural Networks)
+tensorflow>=2.13.0
+
+# Data Loading (for .rda/.RData files)
+pyreadr>=0.5.0
+
+# Optional: Visualization (if plotting is enabled)
+matplotlib>=3.7.0
+
+# Optional: Progress bars for long computations
+tqdm>=4.65.0
+
+# Optional: Statistical tests
+statsmodels>=0.14.0
